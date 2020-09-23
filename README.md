@@ -10,6 +10,10 @@ Bienvenidos al repositorio de calendario de [@CSPUC](https://github.com/cspuc). 
 
 # 🏷️ Changelog
 
+### Septiembre 22, 2020
+- Se crea [courses](https://github.com/cspuc/courses).
+
+
 ### Septiembre 21, 2020
 - Se crea la organización en GitHub.
 - Se crea [jobs](https://github.com/cspuc/jobs).
